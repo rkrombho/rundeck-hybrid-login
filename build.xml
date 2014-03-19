@@ -1,6 +1,6 @@
 <project name="Rundeck Hybrid Login Module extension" default="build" basedir=".">
 	<property name="app.name" value="rundeck-hybrid-login-ext" />
-	<property name="app.version" value="0.1" />
+	<property name="app.version" value="0.2" />
 
 	<property name="dir.src" value="src" />
 	<property name="dir.lib" value="lib" />
